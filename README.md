@@ -1,6 +1,6 @@
 # Networking
 
-OSI Model Architecure
+OSI Model Architecture
 
 
 
