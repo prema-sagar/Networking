@@ -38,19 +38,6 @@ The OSI (Open Systems Interconnection) Model is a conceptual framework used to u
    - Transmits raw bit streams over a physical medium (cables, switches).
    - Examples: Ethernet cables, fiber optics.
 
-## Visual Representation
-
-```
-+-------------------+
-| 7. Application    |
-| 6. Presentation   |
-| 5. Session        |
-| 4. Transport      |
-| 3. Network        |
-| 2. Data Link      |
-| 1. Physical       |
-+-------------------+
-```
 
 ## Why Learn the OSI Model?
 
@@ -58,5 +45,7 @@ The OSI (Open Systems Interconnection) Model is a conceptual framework used to u
 - Provides a universal language for networking professionals.
 - Guides the design and development of network protocols and devices.
 
+
 ---
+
 
